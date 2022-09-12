@@ -71,3 +71,5 @@
 ## Housekeeping
 
 -   [ ] Are commit messages meaningful? Do they need to be squashed?
+
+**Big thanks to https://github.com/mgreiler/code-review-checklist where this list was heavily inspired from.**
